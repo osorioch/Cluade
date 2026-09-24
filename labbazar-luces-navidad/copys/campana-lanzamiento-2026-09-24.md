@@ -145,6 +145,8 @@
 **Caption:** "Más de 1.300 familias colombianas la pidieron esta semana. Se cuelga en minutos, sin taladro. Te llega a tu casa y pagas cuando la recibas."
 **Brief visual:** Grid 2x2 estilo collage: (1) sala transformada de noche, (2) close-up de la cascada de luces, (3) foto del paquete llegando a la puerta con etiqueta de transportadora visible, (4) captura de WhatsApp con conversación real de confirmación de pedido. Fondo cálido navideño, sin texto sobrecargado.
 
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWFF_TZkc) (media id `MAHWFF_TZkc`) — editable: reemplazar las 4 fotos del grid por fotos reales del producto/clientes en cuanto existan.
+
 ---
 
 ## 🖼️ IMAGEN 2 — Most aware · Text-based con oferta
@@ -154,6 +156,8 @@
 **Texto on-image:** "🎄 Transforma tu sala en minutos" / "Envío gratis + pagas cuando te llegue" / "Quedan pocas unidades de este lote"
 **Caption:** "Esta semana con envío gratis a toda Colombia. Pídelo, te llega a tu casa, y pagas al transportador cuando lo tengas en tus manos. No te quedes por fuera esta navidad."
 **Brief visual:** Foto del producto instalado (no bodegón), fondo real de sala, con el texto de oferta superpuesto en la mitad inferior sobre una franja semitransparente roja/verde navideña. Sin exceso de emojis en el texto principal (máximo 1-2).
+
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWFPIYHX0) (media id `MAHWFPIYHX0`) — editable: reemplazar la foto de fondo por una foto real del producto instalado en cuanto exista.
 
 ---
 
