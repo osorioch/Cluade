@@ -13,6 +13,17 @@
   - "Papá Noel escalador con luces LED" (Ecuador, dic-2025) vendía con ángulo bajo precio + regalo — confirma que el formato "wow visual + impulso" funciona en la categoría.
   - Producto propio: listado hace 16 días en Dropi, ventas semanales 800→1.302 unidades (señal de tracción orgánica creciente, útil como prueba social real más adelante: "+1.300 familias ya lo tienen esta semana").
 
+### Referencias visuales (DropKiller) — solo para inspirar ritmo/encuadre, NO para reutilizar tal cual
+> Son anuncios reales de OTROS anunciantes con SU producto. Usarlos literalmente en tu cuenta se detecta como contenido duplicado y puede banear la cuenta. Úsalos solo para que quien grabe el UGC vea cómo muestran el efecto de las luces de noche y el ritmo del anuncio.
+
+| Referencia | Anunciante | Días activo | Video |
+|---|---|---|---|
+| "Ilumina sin pagar luz" (guirnalda solar) | bravus | 79 (CO) | https://cdndropkiller.com/legacy-vercel-blob/iyqfgztixgy5bboz.public.blob.vercel-storage.com/ads/d1fbd715-76cc-48a6-8d2f-d6578600ceb9/videos/d82c40375c75.mp4 |
+| "Papá Noel escalador con luces LED" | only&aura | 168 (EC) | https://cdndropkiller.com/legacy-vercel-blob/iyqfgztixgy5bboz.public.blob.vercel-storage.com/ads/5a3b40fd-46e2-40fd-ad39-d384ad66b152/videos/6cab009832ba.mp4 |
+| "Guirnaldas vintage para negocios" | multi led | 242 (CO) | https://cdndropkiller.com/legacy-vercel-blob/iyqfgztixgy5bboz.public.blob.vercel-storage.com/ads/d40f6330-c5bb-4c92-8414-e49e08ab4eaa/videos/85b3ebebd399.mp4 |
+
+**Nota:** no existe ningún anuncio activo hoy del producto exacto (luces cascada + tapete), por eso no hay referencia 1:1 — estas son de productos de decoración navideña similares en temporadas pasadas.
+
 ---
 
 ## 🎥 VIDEO 1 — Unaware · Storytime/Trigger-event (TikTok-first)
@@ -145,6 +156,8 @@
 **Caption:** "Más de 1.300 familias colombianas la pidieron esta semana. Se cuelga en minutos, sin taladro. Te llega a tu casa y pagas cuando la recibas."
 **Brief visual:** Grid 2x2 estilo collage: (1) sala transformada de noche, (2) close-up de la cascada de luces, (3) foto del paquete llegando a la puerta con etiqueta de transportadora visible, (4) captura de WhatsApp con conversación real de confirmación de pedido. Fondo cálido navideño, sin texto sobrecargado.
 
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWFF_TZkc) (media id `MAHWFF_TZkc`) — editable: reemplazar las 4 fotos del grid por fotos reales del producto/clientes en cuanto existan.
+
 ---
 
 ## 🖼️ IMAGEN 2 — Most aware · Text-based con oferta
@@ -154,6 +167,8 @@
 **Texto on-image:** "🎄 Transforma tu sala en minutos" / "Envío gratis + pagas cuando te llegue" / "Quedan pocas unidades de este lote"
 **Caption:** "Esta semana con envío gratis a toda Colombia. Pídelo, te llega a tu casa, y pagas al transportador cuando lo tengas en tus manos. No te quedes por fuera esta navidad."
 **Brief visual:** Foto del producto instalado (no bodegón), fondo real de sala, con el texto de oferta superpuesto en la mitad inferior sobre una franja semitransparente roja/verde navideña. Sin exceso de emojis en el texto principal (máximo 1-2).
+
+**Creativo generado:** [Abrir en Canva](https://www.canva.com/M/MAHWFPIYHX0) (media id `MAHWFPIYHX0`) — editable: reemplazar la foto de fondo por una foto real del producto instalado en cuanto exista.
 
 ---
 
