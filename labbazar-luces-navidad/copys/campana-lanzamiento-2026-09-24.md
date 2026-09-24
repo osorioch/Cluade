@@ -13,6 +13,17 @@
   - "Papá Noel escalador con luces LED" (Ecuador, dic-2025) vendía con ángulo bajo precio + regalo — confirma que el formato "wow visual + impulso" funciona en la categoría.
   - Producto propio: listado hace 16 días en Dropi, ventas semanales 800→1.302 unidades (señal de tracción orgánica creciente, útil como prueba social real más adelante: "+1.300 familias ya lo tienen esta semana").
 
+### Referencias visuales (DropKiller) — solo para inspirar ritmo/encuadre, NO para reutilizar tal cual
+> Son anuncios reales de OTROS anunciantes con SU producto. Usarlos literalmente en tu cuenta se detecta como contenido duplicado y puede banear la cuenta. Úsalos solo para que quien grabe el UGC vea cómo muestran el efecto de las luces de noche y el ritmo del anuncio.
+
+| Referencia | Anunciante | Días activo | Video |
+|---|---|---|---|
+| "Ilumina sin pagar luz" (guirnalda solar) | bravus | 79 (CO) | https://cdndropkiller.com/legacy-vercel-blob/iyqfgztixgy5bboz.public.blob.vercel-storage.com/ads/d1fbd715-76cc-48a6-8d2f-d6578600ceb9/videos/d82c40375c75.mp4 |
+| "Papá Noel escalador con luces LED" | only&aura | 168 (EC) | https://cdndropkiller.com/legacy-vercel-blob/iyqfgztixgy5bboz.public.blob.vercel-storage.com/ads/5a3b40fd-46e2-40fd-ad39-d384ad66b152/videos/6cab009832ba.mp4 |
+| "Guirnaldas vintage para negocios" | multi led | 242 (CO) | https://cdndropkiller.com/legacy-vercel-blob/iyqfgztixgy5bboz.public.blob.vercel-storage.com/ads/d40f6330-c5bb-4c92-8414-e49e08ab4eaa/videos/85b3ebebd399.mp4 |
+
+**Nota:** no existe ningún anuncio activo hoy del producto exacto (luces cascada + tapete), por eso no hay referencia 1:1 — estas son de productos de decoración navideña similares en temporadas pasadas.
+
 ---
 
 ## 🎥 VIDEO 1 — Unaware · Storytime/Trigger-event (TikTok-first)
